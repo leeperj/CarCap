@@ -43,6 +43,31 @@ namespace CarsCapstone.Controllers
 
         }
 
+        [HttpGet("search")]
+        public async Task<ActionResult<IEnumerable<CarInfo>>> SearchCars(string make, string model, string year, string color)
+        {
+            var carList = await _context.CarInfo.ToListAsync();
+
+            if (!string.IsNullOrWhiteSpace(make))
+                {
+                carList = carList.Where(cars => cars.Make == make).ToList();
+                }
+            if (!string.IsNullOrWhiteSpace(model))
+            {
+                carList = carList.Where(cars => cars.Model == model).ToList();
+            }
+            if (!string.IsNullOrWhiteSpace(year))
+            {
+                carList = carList.Where(cars => cars.Year == year).ToList();
+            }
+            if (!string.IsNullOrWhiteSpace(color))
+            {
+                carList = carList.Where(cars => cars.Color == color).ToList();
+            }
+
+            return carList;
+
+        }
 
         // POST api/values
         [HttpPost]

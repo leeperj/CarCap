@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\source\\repos\\CarsCapstone\\CarsCapstone\\CarsCapstone.csproj": {}
+    "C:\\Users\\Joe\\source\\repos\\CarCap\\CarsCapstone\\CarsCapstone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\source\\repos\\CarsCapstone\\CarsCapstone\\CarsCapstone.csproj": {
+    "C:\\Users\\Joe\\source\\repos\\CarCap\\CarsCapstone\\CarsCapstone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\source\\repos\\CarsCapstone\\CarsCapstone\\CarsCapstone.csproj",
+        "projectUniqueName": "C:\\Users\\Joe\\source\\repos\\CarCap\\CarsCapstone\\CarsCapstone.csproj",
         "projectName": "CarsCapstone",
-        "projectPath": "C:\\Users\\josep\\source\\repos\\CarsCapstone\\CarsCapstone\\CarsCapstone.csproj",
-        "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\source\\repos\\CarsCapstone\\CarsCapstone\\obj\\",
+        "projectPath": "C:\\Users\\Joe\\source\\repos\\CarCap\\CarsCapstone\\CarsCapstone.csproj",
+        "packagesPath": "C:\\Users\\Joe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joe\\source\\repos\\CarCap\\CarsCapstone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\josep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

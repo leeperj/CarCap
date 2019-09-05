@@ -12,3 +12,17 @@ C:\Users\josep\source\repos\CarsCapstone\CarsCapstone\obj\Debug\netcoreapp2.2\Ca
 C:\Users\josep\source\repos\CarsCapstone\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.RazorTargetAssemblyInfo.cache
 C:\Users\josep\source\repos\CarsCapstone\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.dll
 C:\Users\josep\source\repos\CarsCapstone\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.pdb
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\bin\Debug\netcoreapp2.2\CarsCapstone.deps.json
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\bin\Debug\netcoreapp2.2\CarsCapstone.runtimeconfig.json
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\bin\Debug\netcoreapp2.2\CarsCapstone.runtimeconfig.dev.json
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\bin\Debug\netcoreapp2.2\CarsCapstone.dll
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\bin\Debug\netcoreapp2.2\CarsCapstone.pdb
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.RazorAssemblyInfo.cache
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.RazorAssemblyInfo.cs
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.AssemblyInfoInputs.cache
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.AssemblyInfo.cs
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.RazorTargetAssemblyInfo.cache
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.dll
+C:\Users\Joe\source\repos\CarCap\CarsCapstone\obj\Debug\netcoreapp2.2\CarsCapstone.pdb
